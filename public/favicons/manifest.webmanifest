@@ -1,0 +1,24 @@
+{
+  "name": "Shubham",
+  "short_name": "Shubham",
+  "description": "Full Stack Developer Portfolio",
+  "dir": "auto",
+  "lang": "en-US",
+  "display": "standalone",
+  "orientation": "any",
+  "start_url": "/",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "icons": [
+    {
+      "src": "/favicons/logo.ico",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicons/logo.ico",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ]
+}

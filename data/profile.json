@@ -1,0 +1,178 @@
+{
+  "name": {
+    "first": "Shubham",
+    "last": "",
+    "full": "Shubham"
+  },
+  "email": "shubhamkharwar001@gmail.com",
+  "tagline": "Full-Stack Developer | B.Tech CSE | Building Real-World Web Applications",
+  "description": "Passionate Full-Stack Developer focused on building modern web applications, scalable systems, and impactful digital products using HTML, CSS JavaScript, React.js, UI/UX design, Dart & Flutter",
+  "roles": {
+    "short": "Full-Stack Developer",
+    "detailed": "FULL Stack Developer · MOBILE APP DEVELOPER · WEB DESIGNER"
+  },
+  "location": {
+    "based": "India",
+    "availability": "Open to Internships & Opportunities"
+  },
+  "available": true,
+  "bio": "Building products, solving problems, and constantly learning. I’m a Final-year Computer Science student with experience in Full-Stack Web Development, Android Development, and AI-driven applications. I enjoy turning complex challenges into simple, scalable solutions and creating products that deliver exceptional user experiences. Always curious, always building, and always looking for the next challenge",
+
+  "stats": [
+    {
+      "value": "3+",
+      "label": "Major Projects"
+    },
+    {
+      "value": "2",
+      "label": "Internships & Programs"
+    },
+    {
+      "value": "100%",
+      "label": "Learning Mindset"
+    }
+  ],
+
+  "skills": [
+    "Full-Stack Development",
+    "HTML & CSS",
+    "React.js",
+    "UI/UX Design",
+   "Dart & Flutter",
+    "Android Development",
+    "JavaScript",
+    "Tailwind CSS",
+    "Git & GitHub",
+    "Problem Solving"
+  ],
+
+  "experience": [
+    {
+      "id": 1,
+      "role": "Campus Ambassador",
+      "company": "Google Gemini AI Program",
+      "companyShort": "GOOGLE GEMINI",
+      "type": "Program",
+      "location": "Remote",
+      "period": "May 2026",
+      "periodEnd": "Aug 2026",
+      "bullets": [
+        "Represented the Google Gemini AI Program within the student community.",
+        "Promoted AI awareness and educational initiatives among students.",
+        "Helped students explore AI tools, productivity workflows, and emerging technologies."
+      ],
+      "desc": "Worked as a Campus Ambassador for the Google Gemini AI Program, promoting AI adoption, community engagement, and technology awareness.",
+      "tech": [
+        "Google Gemini",
+        "AI Tools",
+        "Community Building",
+        "Leadership"
+      ]
+    },
+    {
+      "id": 2,
+      "role": "Full Stack Web Development Intern",
+      "company": "Unified Mentor Pvt. Ltd.",
+      "companyShort": "UNIFIED MENTOR",
+      "type": "Internship",
+      "location": "Remote",
+      "period": "Jun 2026",
+      "periodEnd": "Sep 2026",
+      "bullets": [
+        "Built responsive web interfaces using modern frontend technologies.",
+        "Worked on full-stack application development and REST APIs.",
+        "Collaborated on real-world projects following industry development practices."
+      ],
+      "desc": "Worked as a Full Stack Web Development Intern, contributing to frontend and backend development using modern web technologies.",
+      "tech": [
+        "React.js",
+        "Next.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "id": 1,
+      "title": "UPI-Shiksha",
+      "subtitle": "India's Digital Payment Learning Platform",
+      "type": "Educational Platform",
+      "link": "https://shubu001.github.io/upi-shiksha/",
+      "image": "/assets/upishiksha.png",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Responsive Design",
+        "QR Code Integration",
+        "Flutter",
+        "Dart"
+      ],
+      "desc": "An interactive platform designed to educate users about UPI payments, secure digital transactions, QR code scanning, transaction tracking, and financial literacy through a modern and user-friendly interface."
+    },
+    {
+      "id": 2,
+      "title": "VyaparBuild",
+      "subtitle": "One-Click Business Builder Platform",
+      "type": "Startup Concept",
+      "image": "/assets/vyaparbuild.png",
+      "tech": [
+        "Next.js",
+        "React.js",
+        "Node.js",
+        "MongoDB"
+      ],
+      "desc": "VyaparBuild is a concept platform that enables users to create and launch their business with a single click, simplifying the startup process."
+    },
+    {
+      "id": 3,
+      "title": "Vyom AI",
+      "subtitle": "Smart Voice Assistant",
+      "type": "AI Concept",
+      "image": "/assets/vyomai.png",
+      "tech": [
+        "AI",
+        "Voice Interface",
+        "JavaScript"
+      ],
+      "desc": "Vyom AI is a conceptual smart voice assistant designed to provide information related to space, galaxies, and astronomy in an interactive way."
+    }
+  ],
+"publications": [
+    {
+      "id": 1,
+      "title": "AI Innovation",
+      "desc": "Leveraging cutting-edge AI technologies to build smarter, faster, and more impactful digital experiences."
+    },
+    {
+      "id": 2,
+      "title": "Modern Web Engineering",
+      "desc": "Crafting high-performance web applications with a strong focus on scalability, usability, and clean design."
+    },
+    {
+      "id": 3,
+      "title": "Mobile App Development",
+      "desc": "Designing and developing modern Android applications with a focus on performance, usability, and seamless user experiences."
+    },
+    {
+      "id": 4,
+      "title": "Continuous Growth",
+      "desc": "Passionate about learning emerging technologies, adapting to industry trends, and continuously improving technical expertise."
+    }
+  ],
+
+  "socials": [
+  {
+    "label": "GitHub",
+    "href": "https://github.com/shubu001"
+  },
+  {
+    "label": "LinkedIn",
+    "href": "https://www.linkedin.com/in/shubham-93094b214"
+  }
+  
+]
+}
