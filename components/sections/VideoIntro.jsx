@@ -57,8 +57,8 @@ export default function VideoIntro() {
     function onLoaderDismissed() {
       const v = videoRef.current
       if (!v) return
-      v.muted = false
-      setMuted(false)
+      v.muted = true
+      setMuted(true)
       dismissHint()
     }
     window.addEventListener('loader-dismissed', onLoaderDismissed)
@@ -67,14 +67,32 @@ export default function VideoIntro() {
 
   // Play video after shatter animation finishes
   useEffect(() => {
-    function onAnimationDone() {
-      const v = videoRef.current
-      if (!v) return
-      v.play().catch(() => {})
-    }
-    window.addEventListener('loader-animation-done', onAnimationDone)
-    return () => window.removeEventListener('loader-animation-done', onAnimationDone)
-  }, [])
+
+  function startVideo() {
+
+    const v = videoRef.current
+
+    if (!v) return
+
+    v.muted = false
+    v.volume = 1
+    setMuted(false)
+    v.currentTime = 0
+
+    v.play()
+      .then(() => {
+        setPlaying(true)
+      })
+      .catch(err => console.log(err))
+  }
+
+  window.addEventListener('start-video', startVideo)
+
+  return () => {
+    window.removeEventListener('start-video', startVideo)
+  }
+
+}, [])
 
   // Auto-hide hint after 6 s
   useEffect(() => {
@@ -117,20 +135,15 @@ export default function VideoIntro() {
   return (
     <section className={styles.section}>
 
-      {/* 1 - Blurred ambient background */}
-      <video
-        src="/assets/shubham"
-        autoPlay muted playsInline
-        aria-hidden="true"
-        className={styles.bgVideo}
-      />
 
       {/* 2 - Main video: static `muted` attr so React never touches the DOM property on re-renders */}
       <video
         ref={videoRef}
         data-testid="intro-video"
-        src="/assets/introduction.webm"
-        muted playsInline
+        src="/assets/introduction.MP4"
+        playsInline
+        autoPlay
+        preload="auto"
         onPlay={() => setPlaying(true)}
         onPause={() => setPlaying(false)}
         onEnded={handleEnded}
