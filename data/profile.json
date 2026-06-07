@@ -101,7 +101,7 @@
       "subtitle": "India's Digital Payment Learning Platform",
       "type": "Educational Platform",
       "link": "https://shubu001.github.io/upi-shiksha/",
-      "image": "/assets/upishiksha.png",
+      "image": "/assets/upibg.webp",
       "tech": [
         "HTML",
         "CSS",
@@ -118,7 +118,7 @@
       "title": "VyaparBuild",
       "subtitle": "One-Click Business Builder Platform",
       "type": "Startup Concept",
-      "image": "/assets/vyaparbuild.png",
+      "image": "/assets/vyaparbg.webp",
       "tech": [
         "Next.js",
         "React.js",
@@ -132,7 +132,7 @@
       "title": "Vyom AI",
       "subtitle": "Smart Voice Assistant",
       "type": "AI Concept",
-      "image": "/assets/vyomai.png",
+      "image": "/assets/vyombg.webp",
       "tech": [
         "AI",
         "Voice Interface",
