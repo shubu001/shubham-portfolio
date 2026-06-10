@@ -107,9 +107,9 @@ Ways to connect and collaborate.
 
 🤝 Connect With Me
 
-* GitHub
-* LinkedIn
-* Email
+* LinkedIn: https://www.linkedin.com/in/shubham-93094b214
+* Email: shubhamkharwar001@gmail.com
+  
 
 I’m always open to collaboration, internships, freelance opportunities, and exciting projects.
 
