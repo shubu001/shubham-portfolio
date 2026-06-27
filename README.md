@@ -1,120 +1,146 @@
-🚀 Shubham — Developer Portfolio 2026
+<h1 align="center">
+Hello!👋 I’m Shubham
+</h1>
+<img width="1600" height="893" alt="IMG_9109 JPG" src="https://github.com/user-attachments/assets/d17a52b9-fe4f-4a78-8b1c-048c0d87f711" />
 
-A modern, cinematic, and immersive portfolio built to showcase my journey, projects, skills, and experiences as a developer.
+- Full Stack Web & Mobile App Developer
 
-Designed with a focus on clean aesthetics, smooth animations, interactive storytelling, and a premium user experience.
+- Building modern digital experiences with clean design, scalable code, and meaningful user interactions.
+  
+🌐 Portfolio
+https://shubham-portfolio-zeta-nine.vercel.app
+
 
 ⸻
 
-✨ About
+🚀 About Me
 
-I am Shubham, a Final-Year B.Tech Computer Science student passionate about building impactful digital experiences.
+I’m a Final-Year B.Tech Computer Science Engineering student passionate about crafting high-quality web and mobile applications.
 
-My interests include:
+I enjoy transforming ideas into polished products through modern technologies, intuitive UI/UX, and performance-focused development.
 
-* 🌐 Web Development
+Interests
+
+* 🌐 Full Stack Web Development
 * 📱 Mobile App Development
 * 🎨 UI/UX Design
-* 💡 Problem Solving
-* 🤖 Emerging Technologies
-
-I enjoy transforming ideas into real-world products that are functional, scalable, and user-focused.
+* ⚡ Frontend Engineering
+* 🤖 AI-Powered Applications
 
 ⸻
 
-🎯 Features
+✨ Portfolio Highlights
 
-* Cinematic Portfolio Experience
-* Interactive 3D Character
-* Smooth Scroll Animations
-* Dark & Light Theme Support
-* Responsive Design
-* Modern UI/UX
-* Project Showcase
-* Experience Timeline
-* Skills & Expertise Section
-* Contact Integration
-* Performance Optimized
+* 🎬 Cinematic Landing Experience
+* 🎭 Interactive 3D Character
+* ⚡ Smooth Page Animations
+* 🌙 Dark & Light Mode
+* 📱 Fully Responsive Design
+* 🎨 Premium Modern UI
+* 📂 Interactive Project Showcase
+* 💼 Experience Timeline
+* 🛠 Skills Dashboard
+* 📬 Contact & Social Integration
+* 🚀 Optimized Performance
 
 ⸻
 
-🛠️ Tech Stack
+🛠 Tech Stack
 
 Frontend
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
 * React.js
 * Next.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Tailwind CSS
+* Framer Motion
 
-Mobile Development
+Mobile
 
-* Dart
 * Flutter
+* Dart
+
+Backend & Database
+
+* Firebase
 
 Design
 
 * Figma
 * UI/UX Design
-* Responsive Design Principles
+* Responsive Design
 
 Tools
 
 * Git
 * GitHub
 * VS Code
+* Vercel
 
 ⸻
 
 📂 Portfolio Sections
 
-Home
+🏠 Home
 
-Professional introduction and interactive landing experience.
+👨‍💻 About
 
-About
+🚀 Projects
 
-Overview of my background, interests, and technical journey.
+💼 Experience
 
-Projects
+🛠 Skills
 
-Showcase of selected projects with descriptions and technologies used.
+📜 Certifications
 
-Experience
-
-Professional experience, internships, and leadership roles.
-
-Skills
-
-Technical skills and development expertise.
-
-Contact
-
-Ways to connect and collaborate.
+📬 Contact
 
 ⸻
 
-📈 Current Focus
+🌟 Featured Projects
 
-* Building modern web applications
-* Developing cross-platform mobile apps
-* Improving UI/UX design skills
-* Exploring AI-powered tools and automation
-* Contributing to impactful projects
+✈️ TravelBharat | Explore State By State
 
-⸻
+Modern tourism platform for exploring Indian States & Union Territories with interactive UI, smart search, Google Maps integration, and Firebase-powered content.
 
-🤝 Connect With Me
+🌐 Live: https://travelbharat360.vercel.app
 
-* LinkedIn: https://www.linkedin.com/in/shubham-93094b214
-* Email: shubhamkharwar001@gmail.com
-  
+💳 UPI-Shiksha | India's Digital Payment Learning Platform
 
-I’m always open to collaboration, internships, freelance opportunities, and exciting projects.
+A risk-free digital payment learning platform that helps beginners practice UPI transactions using virtual currency in a simulated environment.
+
+🌐 Live: https://shubu001.github.io/upi-shiksha/
 
 ⸻
 
-© 2026 Shubham
+📈 Currently Learning
 
-Crafted with passion, curiosity, and a commitment to continuous learning.
+* Advanced React Ecosystem
+* Scalable Full Stack Architecture
+* Mobile App Development
+* AI Integrations
+* System Design
+* UI/UX Principles
+
+⸻
+
+🤝 Let’s Connect
+
+💼 LinkedIn
+www.linkedin.com/in/shubham-93094b214
+
+📧 Email
+shubhamkharwar001@gmail.com
+
+⸻
+
+⭐ If you like my work, consider giving this repository a star.
+
+⸻
+
+<p align="center">
+Made with ❤️ by <strong>Shubham</strong>
+
+</p>
