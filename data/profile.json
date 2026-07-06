@@ -98,34 +98,38 @@
     {
       "id": 1,
       "title": "UPI-Shiksha",
-      "subtitle": "India's Digital Payment Learning Platform",
+      "subtitle": "India's Digital Payment Learning App",
       "type": "Educational Platform",
       "link": "https://shubu001.github.io/upi-shiksha/",
       "image": "/assets/upibg.webp",
       "tech": [
+        "Flutter",
+        "Dart",
         "HTML",
         "CSS",
         "JavaScript",
         "Responsive Design",
-        "QR Code Integration",
-        "Flutter",
-        "Dart"
+        "QR Code Integration"
       ],
       "desc": "An interactive platform designed to educate users about UPI payments, secure digital transactions, QR code scanning, transaction tracking, and financial literacy through a modern and user-friendly interface."
     },
     {
       "id": 2,
-      "title": "VyaparBuild",
-      "subtitle": "One-Click Business Builder Platform",
-      "type": "Startup Concept",
-      "image": "/assets/vyaparbg.webp",
+      "title": "Travel-Bharat",
+      "subtitle": "Explore India State by State",
+      "type": "Tourism Platform",
+       "link": "https://travelbharat360.vercel.app/",
+      "image": "/assets/travelbharat.PNG",
       "tech": [
-        "Next.js",
         "React.js",
-        "Node.js",
-        "MongoDB"
+        "React Router DOM",
+        "Tailwind CSS",
+        "Firebase",
+        "JavaScript",
+        "Admin Dashboard",
+        "Responsive Design"
       ],
-      "desc": "VyaparBuild is a concept platform that enables users to create and launch their business with a single click, simplifying the startup process."
+      "desc": "TravelBharat is a modern tourism platform that enables users to explore all Indian States and Union Territories through an immersive interface. It features dynamic destination pages, smart search with live suggestions, Google Maps integration, responsive UI, premium animations, and a Firebase-powered admin dashboard for seamless content management."
     },
     {
       "id": 3,

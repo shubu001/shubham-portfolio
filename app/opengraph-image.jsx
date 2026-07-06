@@ -159,8 +159,7 @@ export default function Image() {
             }}
           >
             {[
-              ['4+', 'Years'],
-              ['20+', 'Projects'],
+              ['3+', 'Projects'],
               ['AI + FS', 'Specialist'],
             ].map(([value, label]) => (
               <div
