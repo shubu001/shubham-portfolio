@@ -100,7 +100,7 @@
       "title": "UPI-Shiksha",
       "subtitle": "India's Digital Payment Learning App",
       "type": "Educational Platform",
-      "link": "https://shubu001.github.io/upi-shiksha/",
+      "link": "https://upi-shiksha.vercel.app/",
       "image": "/assets/upibg.webp",
       "tech": [
         "Flutter",

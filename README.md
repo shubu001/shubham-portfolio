@@ -111,7 +111,7 @@ Modern tourism platform for exploring Indian States & Union Territories with int
 
 A risk-free digital payment learning platform that helps beginners practice UPI transactions using virtual currency in a simulated environment.
 
-🌐 Live: https://shubu001.github.io/upi-shiksha/
+🌐 Live: https://upi-shiksha.vercel.app
 
 ⸻
 
